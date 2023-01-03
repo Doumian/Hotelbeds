@@ -25,7 +25,7 @@ I developed several services for this solution:
   
       Will present our logic behind identifiying a hacker attempt log record.
 
-- LogServiceTest:
+- LogService:
   
       Will allow us to generate fully random 100k+ log records in a single logfile with a custom probability for Hacker Attemps into ```logs/tmp/``` for futher manual testing.
 
